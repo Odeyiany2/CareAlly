@@ -4,4 +4,12 @@ to bridge the knowledge gap between individuals and diseases (Neglected Tropical
 donations and volunteering opportunities.
 
 
+
 ## Project Structure
+
+
+## Contributing
+After the Google Solution Challenge 2024, We will welcome contributions to CareAlly for anyone interested in creating awareness about other prevailing diseases and making an impact.
+
+## License
+CareAlly is released under the MIT License. 
