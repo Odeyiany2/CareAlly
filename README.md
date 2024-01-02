@@ -5,7 +5,7 @@ donations and volunteering opportunities.
 
 
 
-## Project Structure
+## 
 
 
 ## Contributing
