@@ -5,7 +5,9 @@ donations and volunteering opportunities.
 
 
 
-## 
+## Technologies 
+The following includes google technologies we used for the project and the aspects in which they were incorporated:
+
 
 
 ## Contributing
