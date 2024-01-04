@@ -5,10 +5,7 @@ donations and volunteering opportunities.
 
 
 
-## Technologies 
-The following includes google technologies we used for the project and the aspects in which they were incorporated:
-
-
+## Technology Stack
 
 ## Contributing
 After the Google Solution Challenge 2024, We will welcome contributions to CareAlly for anyone interested in creating awareness about other prevailing diseases and making an impact.
