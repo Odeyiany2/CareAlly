@@ -6,7 +6,7 @@ donations and volunteering opportunities. Our solution not only focuses on provi
 
 
 ## Technology Stack
-![Technology stack](https://github.com/Odeyiany2/CareAlly/blob/main/tecnology%20stack.png)
+
 
 ## Contributing
 After the Google Solution Challenge 2024, We will welcome contributions to CareAlly for anyone interested in creating awareness about other prevailing diseases and making an impact.
