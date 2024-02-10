@@ -5,7 +5,11 @@ donations and volunteering opportunities. Our solution not only focuses on provi
 
 ## Features of CareAlly
 
-* Educational content: informational articles, videos, interactive quizzes to engage users. Content tagging: each disease should be tagged for easy access by users 
+* Educational content:
+  - informational articles,
+  - videos
+  - interactive quizzes to engage users: implemented with GPT Quiz Generator for Google Forms
+  - Content tagging: each disease should be tagged for easy access by users 
 
 * Disease locator: maps showing the prevalence of different diseases in various regions and info on affected communities. implemented using google maps
 
