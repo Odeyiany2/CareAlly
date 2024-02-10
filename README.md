@@ -31,6 +31,8 @@ donations and volunteering opportunities. Our solution not only focuses on provi
 
 
 ## Technology Stack
+![Technology]
+
 
 
 ## Contributing
