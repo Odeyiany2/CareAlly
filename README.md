@@ -31,7 +31,7 @@ donations and volunteering opportunities. Our solution not only focuses on provi
 
 
 ## Technology Stack
-![Technology]
+![Technology](https://github.com/Odeyiany2/CareAlly/blob/main/GPT%20Quiz%20Generator%20for%20Google%20forms%20(1).png)
 
 
 
