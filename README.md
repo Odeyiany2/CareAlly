@@ -35,6 +35,9 @@ donations and volunteering opportunities. Our solution not only focuses on provi
 
 
 
+## UI/UX Design
+[Figma Design](https://www.figma.com/file/DGeDUmoSaTejTpSsVIklEM/CareAlly?type=design&node-id=0-1&mode=design&t=TcGMFflEjtgaqbGC-0)
+
 ## Contributing
 After the Google Solution Challenge 2024, We will welcome contributions to CareAlly for anyone interested in creating awareness about other prevailing diseases and making an impact.
 
